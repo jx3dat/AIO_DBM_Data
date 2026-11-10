@@ -2,6 +2,6 @@ AIO_release = false
 min_version = 3.0
 latest = 3.0
 zip = https://github.com/jx3dat/AIO_DBM_Data/raw/main/AIO.zip
-msg = AIO tam khoa, vui long cho ban moi
+msg = AIO tạm khoá
 whitelist_name = Khôn
 whitelist_guild = Cẩm_Y_Vệ, Đông_Xưởng, Khải_Hoàn_Môn
