@@ -1,4 +1,4 @@
-AIO_release = true
+AIO_release = false
 min_version = 3.0
 latest = 3.0
 zip = https://github.com/jx3dat/AIO_DBM_Data/raw/main/AIO.zip
