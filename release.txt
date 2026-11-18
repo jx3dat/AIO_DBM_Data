@@ -1,6 +1,6 @@
 AIO_release = true
-min_version = 4.1
-latest = 4.1
+min_version = 4.2
+latest = 4.2
 zip = https://raw.githubusercontent.com/jx3dat/AIO_DBM_Data/main/AIO.zip
 msg = Tạm khoá sửa lỗi cập nhật
 whitelist_name = Khôn
