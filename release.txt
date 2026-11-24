@@ -1,7 +1,7 @@
-AIO_release = true
+AIO_release = false
 min_version = 4.4
 latest = 4.4
 zip = https://raw.githubusercontent.com/jx3dat/AIO_DBM_Data/main/AIO.zip
-msg = Tạm khoá sửa lỗi cập nhật
+msg = Tạm khoá sửa lỗi và cập nhật 4.5
 whitelist_name = Khôn
 whitelist_guild = Cẩm_Y_Vệ, Đông_Xưởng, Khải_Hoàn_Môn
