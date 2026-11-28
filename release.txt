@@ -1,6 +1,6 @@
 AIO_release = true
-min_version = 4.7
-latest = 4.7
+min_version = 4.8
+latest = 4.8
 zip = https://raw.githubusercontent.com/jx3dat/AIO_DBM_Data/main/AIO.zip
 msg = Tạm khoá sửa lỗi và cập nhật 4.5
 whitelist_name = Khôn, AnChi, Honey, AnhHoa, YCầm, MinhTôn
