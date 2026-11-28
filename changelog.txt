@@ -1,43 +1,10 @@
 # Nhật ký cập nhật AIO (bản mới nhất ở trên cùng)
 # Dòng bắt đầu bằng # là ghi chú, không hiện trong game.
 
-[4.4] 25/11/2026
-- Bấm Cập nhật: hiện bảng thay đổi (changelog) ngay trong bảng Cập nhật AIO, thay cho khung web trắng.
-- Giới thiệu: thêm nút Changelog để xem nhật ký cập nhật bất cứ lúc nào.
-- Tự động đồng ý người xin vào đội (cùng bang / hảo hữu), kể cả khi tắt bảng tổ đội.
-- Tự động đồng ý cưỡi ngựa đôi (chọn: hảo hữu / cùng bang / đồng đội / tất cả).
-- DBM: dây nối có ô "Tắt khi NPC rời chiến đấu" (NPC ra trận hoặc chết thì tắt dây).
-- DBM: công tắc chung bật / tắt Hào Quang trong Bật module cảnh báo.
-- Circle: bán kính / bề rộng vòng tối đa tăng từ 30 lên 100 thước.
-- DBM: data Hoàng Cung Nam Chiếu (map 140 và 155) - đợt quái, Cuồng Sa, Phong Ấn, Bạo Nộ boss 2.
-- AIO_Sudoku: lưu lời giải Sudoku của NPC.
-- AIO_Macro: thêm lệnh /pcast (giống /cast).
-- AIO_Macro: /cast Đằng Độc Sát, Đằng Liên Nỏ, Dừng của Đường Môn chạy đúng theo ô thanh cơ quan.
-- AIO_Macro: thanh cơ quan lúc có lúc không - kiểm tra lại ô trước khi bấm.
-- TLHelper: sửa lỗi văng game khi bấm kỹ năng cơ quan (Trọng Nỏ).
-- TargetList: bỏ dòng chẩn đoán khi Ctrl+Alt+click.
-
-[4.2] 20/11/2026
-- Xuất / nhập tinh chỉnh AIO đầy đủ: cài đặt, dữ liệu từng addon và vị trí các khung (chuyển máy dễ dàng).
-- ToolBox: tự ép đá chạy được (tự nạp lại công thức và ép tiếp), thêm ô "Ép nhanh" ngay trên bảng luyện đá.
-- LifeBar: quyển trục nhận nhiệm vụ đổi màu theo game (vàng, xám, xanh dương, xanh lá, tím).
-- LifeBar: sửa vẽ nhầm dấu trả nhiệm vụ ở NPC triệu hồi.
-- LifeBar: đánh dấu quái rơi đồ nhiệm vụ; quyển trục kiểu hoa mỹ (mặc định tắt); chỉnh khoảng cách chữ với thanh máu.
-- Cataclysm: nút tam giác thu gọn khung đội; nút cột sáng nằm đúng chỗ ở chế độ cơ bản.
-- AIO_Macro: khi đang di chuyển, bấm chiêu xong không dừng macro.
-- AIO_Macro: điều kiện mới sunhit / moonhit / lastsun / lastmoon (Minh Giáo), lệnh /wait, last_skill chính xác hơn.
-- AIO_Area: hiệu ứng hoa mỹ cho 9 khí trường Thuần Dương (Sinh Thái Cực, Hóa Tam Thanh, Thôn Nhật Nguyệt...), dây nối kiếm giữa các khí trường, giảm tải khi có nhiều vùng.
-- TargetMon: kiểu "Hoa mỹ" cho hướng mặt mục tiêu.
-- DBM: vùng cảnh báo kiểu hoa mỹ (viền sáng, nét), Key nối giữa các mục.
-- DBM_SA: icon bên trái dòng chữ; LifeBar vẽ dấu đầu NPC thay DBM khi bật.
-- TLHelper: tự đặt chiêu im lặng (bỏ thông báo "Chưa chọn mục tiêu").
-- AIO_Force (mới): Kiếm Vũ + /JumpBack /SmallDodge /Dance.
-
-[4.0] 15/11/2026
-- AIO lên phiên bản 4.0.
-- Khung chính AIO cố định 1000x666, hiệu ứng mở / đóng panel.
-- Nút AIO nằm ở khung nhân vật.
-- ToolBox: tự bán cá.
-- MailBank: một nút "Lấy hết thư" (tự lấy toàn bộ thư theo lượt).
-- DBM: giọng đọc (voice) đếm ngược.
-- AIO_Macro: điều kiện mục tiêu của mục tiêu (ttme / nottme), thù hận (threat / othreat / threattop).
+[4.8] 28/11/2026
+- Nâng cấp giao diện AIO và DBM, Thống kê nhân vật.
+- Thêm chức năng giám sát BUFF và Skill cho PVE.
+- AIO_Force không tự ăn đỉnh cổ khi có debuff Cổ thời.
+- AIO Macro có thêm thẻ hỗ trợ viết macro với click chọn.
+- Thay đổi màu DPS cho chính xác.
+- Cảnh báo quên chưa trả nhiệm vụ bí cảnh ngày khi ESC thoát game.
